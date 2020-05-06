@@ -1,0 +1,19 @@
+Group: Ishneet, Aryana, Avni
+
+Github Repository Link: 
+https://github.com/isachar98/info2950-final
+
+Ideas for Dataset
+	1.	College dataset  
+	Datasets are available that include information regarding type of university, student body size, rank, location, GPA, faculty size 
+	Can make it more specific by looking at the university system in a specific state/country 
+	2.	NYC leading cause of death: https://data.cityofnewyork.us/Health/New-York-City-Leading-Causes-of-Death/jb7j-dtam 
+	Datasets include number of deaths/year, leading causes of death, regions with most deaths  
+	3.	Air Quality  
+	Different measures of air quality based on cities, weather, population size  
+	4.	Schools  
+	Inspiration: https://github.com/the-pudding/data/tree/master/dress_codes (how dress codes in schools are sending sexualised messaging) 
+	Potential data sets: National Centre for Education Statistics: https://nces.ed.gov/ 
+	5.	Agriculture 
+	Cornell has published datasets regarding different crops and wildlife  
+	Can make it more specific by looking specifically at Cornell apple breeding data  
